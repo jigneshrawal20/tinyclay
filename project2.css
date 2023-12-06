@@ -1,0 +1,238 @@
+body{
+    margin: 0px;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+main{
+    color:  #AD6262;
+     font-family:"forum";
+     
+     
+}
+#logo1{
+margin: 50px 40px; 
+}
+
+header ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    width: 368px;
+    height: 22px;
+    justify-content: space-around;
+
+}
+#list1{
+    color: #AD6262;
+}
+
+#logo3{
+    height:25px;
+    width: 126px;
+    
+}
+span{
+    color: aliceblue;
+}
+#pic1{
+    margin-left: 350px;
+    width: 834px;
+    height: 513px;
+   margin-top: 20px;
+    margin-left: 183px;
+
+}
+#layer1{
+    width: 834px;
+height: 513px;
+top: 50px;
+left: 183px;
+display: inline-block;
+position: relative;
+
+
+}
+    
+
+#layer1 h1{
+    width: 650px;
+    height: 77px;
+    font-weight: 400px;
+    font-size: 70px;
+    left: 160px;
+    top:50px;
+    display: inline-block;
+    position: absolute;
+       
+}
+#layer1 h3{
+    width: 500px;
+    height:52px;
+    font-weight: 400px;
+    font-size: 24px;
+    top: 160px;
+    left: 170px;
+    position: absolute;
+
+}
+#layer2 p{
+    width: 452px;
+    height: 234px;
+    margin-top: 1029;
+    margin-left: 350px;
+     display:inline-block;
+     
+}  
+#layer2{
+    background-color: #AD6262;
+    height: 829px;
+    color: aliceblue;
+    border-radius: 200px 0px 200px 0px;
+}
+#layer2 h1{
+    width: 239px;
+    height: 71px;
+    margin-top:100px ;
+    margin-left: 350px;
+    font-size: 80px;
+
+}
+#pic2{
+    float: right;
+    margin-right: 270px;
+    border-radius: 10px 100px 10px 10px ;
+
+}
+#pic3{
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-left: 300px;
+    float: left;
+    position: relative;
+    border-radius: 10px 10px 10px 100px;
+    
+}
+#para2{
+    display:inline-block;
+    width: 460px;
+    height: 234px;
+    position: absolute;
+    right: 200px;
+    top: 1300px;
+
+}
+
+#ourproduct{
+    margin-top: 70px;
+    margin-left: 189px;
+    display:block;
+
+}
+#pic4{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+#pic5{
+    margin-left: 180px;
+    margin-top: 0px;
+}
+
+#para3{
+    margin-left: 280px;
+    display: inline-block;
+    
+}
+
+#para4{
+     margin-left: 900px;
+    margin-top: 2px;
+    
+    
+}
+
+#pic6{
+    margin-left: 150px;
+}
+
+#pic7{
+    margin-left: 200px;
+}
+
+#para5{
+    margin-left: 260px;
+    
+}
+
+#para6{
+    margin-left: 950px;
+    
+
+}
+
+#pic8{
+    float: right;
+    margin-right: 360px;
+    margin-bottom: 50px;
+    
+}
+#layer4{
+    background-color: #AD6262;
+    border-radius: 0px 0px 200px 200px;
+
+}
+#layer4 h2{
+    margin-left: 680px;
+    margin-top: 100px;
+    color:white;
+}
+
+#pic9{
+    margin-left: 160px;
+    color: #AD6262;
+    border-radius: 0px 0px 0px 100px;
+}
+
+#pic10{
+    margin-left: 160px;
+    border-radius: 0px 0px 100px 0px;
+}
+
+#pic11{
+    margin-left: 650px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    border-radius: 100px 100px 100px 100px;
+}
+
+#pic12{
+    margin-left: 160px;
+    margin-top: 100px;
+    position: relative;
+}
+
+#name{
+    margin-left: 160px;
+    margin-top: 30px;
+}
+
+#line1{
+    margin-left: 160px;
+    
+}
+
+#pic13{
+    float: right;
+    margin-right: 100px;
+    margin-bottom: 80px;
+    
+    
+}
+
+#pic14{
+    margin-left: 150px;
+}
